@@ -28,6 +28,6 @@ This is a simple and responsive **Login Page** built using **HTML** and **CSS**.
    ```bash
    git clone https://github.com/AnkitHanotia/day1-login-page.git
 
-##🙌 Author
+## 🙌 Author
 - Ankit Hanotia
 - [Visit GitHub](https://github.com/AnkitHanotia)
